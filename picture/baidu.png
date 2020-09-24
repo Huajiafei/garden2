@@ -1,0 +1,11 @@
+--2020-09-24 10:53:04--  https://www.baidu.com/img/bd_logo1.png
+Resolving www.baidu.com (www.baidu.com)... 180.101.49.12, 180.101.49.11
+Connecting to www.baidu.com (www.baidu.com)|180.101.49.12|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7877 (7.7K) [image/png]
+Saving to: ‘bd_logo1.png’
+
+     0K .......                                               100% 61.0M=0s
+
+2020-09-24 10:53:04 (61.0 MB/s) - ‘bd_logo1.png’ saved [7877/7877]
+
